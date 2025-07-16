@@ -336,7 +336,7 @@ img {
     #wave {
         width: 50px;
         height: 50px;
-        background: url(/images/wave.gif) no-repeat center / cover;
+        background: url(./images/wave.gif) no-repeat center / cover;
         position: absolute;
         top: 15px;
         left: 5px;
@@ -490,11 +490,11 @@ img {
     }
 
     .play {
-         background-image: url(/images/play_btn.png);
+         background-image: url(./images/play_btn.png);
     }
 
     .pause {
-        background-image: url(/images/pause.png);
+        background-image: url(./images/pause.png);
     }
 
 
@@ -530,7 +530,7 @@ img {
         height: 20px;
         background: transparent;
         border: none;
-        background-image: url(/images/down.png);
+        background-image: url(./images/down.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
@@ -549,11 +549,11 @@ img {
     }
 
     .empty {
-        background-image: url(/images/heart2.png);
+        background-image: url(./images/heart2.png);
     }
 
     .filled {
-        background-image: url(/images/heart.png);
+        background-image: url(./images/heart.png);
     }
 
 
@@ -562,7 +562,7 @@ img {
         height: 20px;
         background: transparent;
         border: none;
-        background-image: url(/images/album.png);
+        background-image: url(./images/album.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
